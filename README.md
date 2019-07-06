@@ -1,1 +1,3 @@
-# algorithms (Optimization algorithms research and leetcode ideas)
+# algorithms 
+Optimization algorithms research and leetcode ideas
+
