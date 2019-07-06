@@ -1,0 +1,2 @@
+The first try I used sqrt(n) instead of n//2 to loop, what is the complex, O(n^(5/4))?;
+Then I looked into KMP, the run time is worse, should be better at O(n)
